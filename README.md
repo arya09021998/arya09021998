@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arya09021998
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning blockchain because in blockchain sky is the limit
+- 👀 blockchain Developer
 - 📫 How to reach me - k.arya2946@gmail.com
 
 <!---
